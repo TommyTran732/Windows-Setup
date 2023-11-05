@@ -2,6 +2,15 @@
 
 ## Virus & threat protection settings
 
+### Cloud-delivered protection
+
+This sends hashes and file paths to Microsoft. Whether to keep this on or not depends on the threat model.
+
+One caveat with this is that if it takes the cloud too long to scan, the computer will just run the executable. Might wanna increase the timeout later to make it less theatric:
+
+- https://learn.microsoft.com/en-us/mem/intune/protect/antivirus-microsoft-defender-settings-windows
+- https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-defender#defender-cloudextendedtimeout
+
 ### Automatic Sample Submission
 
 Should be turned off. Supposedly will prompt if the files it want to submit are document files, but why not just make it prompt for every file it wants to submit?
