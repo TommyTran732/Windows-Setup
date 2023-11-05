@@ -56,3 +56,15 @@ Probably same as SmartScreen for Microsoft Edge. Might not be as egregious thoug
 ### Exploit protection
 
 Turn Force randomization for images (Mandatory ALSR) to "On by default".
+
+# Device Security
+
+## Security Processor & Secure Boot
+
+If theres aren't on, check the firmware settings. On Parallels, both should pass by default.
+
+## Data encryption
+
+Poor man's Bitlocker. Unless you are using Home edition, turn this off and use Bitlocker proper.
+
+If you sign in with a Microsoft account, "Data Encryption" will submit the key protector to Microsoft (which means that Microsoft can decrypt your device should they get physical access to it). Not sure what happens when you do not login with a Microsoft account, but it is worse than a proper Bitlocker setup anyways (no TPM + PIN/USB drive etc), so just disable it.
