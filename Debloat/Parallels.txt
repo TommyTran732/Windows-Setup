@@ -1,7 +1,7 @@
 MicrosoftTeams
 Microsoft.ScreenSketch
 Microsoft.Paint
-Microsoft.549981C3F5F510
+Microsoft.549981C3F5F10
 Microsoft.MicrosoftOfficeHub
 Microsoft.WindowsFeedbackHub
 Microsoft.People
