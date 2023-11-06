@@ -2,7 +2,7 @@
 
 `Computer Configuration\Administrative Templates\Windows Components\Microsoft Edge`
 
-**For some reason this does not seem to take effect - needs checking**
+**Probably for the legacy Microsoft Edge, not the Chromium based one**
 
 Configure Autofill -> Disable (Password Manager is off so no reason for autofill to be on)
 Configure Do Not Track -> Enable
