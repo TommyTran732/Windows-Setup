@@ -1,11 +1,16 @@
 MicrosoftTeams
 Microsoft.ScreenSketch
 Microsoft.Paint
+Microsoft.549981C3F5F510
 Microsoft.MicrosoftOfficeHub
 Microsoft.WindowsFeedbackHub
 Microsoft.People
 Clipchamp.Clipchamp
-Microsoft.WindowsAlarm
+Microsoft.GetStarted
+MicrosoftCorporationII.QuickAssist
+Microsoft.WindowsAlarms
 Microsoft.WindowsSoundRecorder
 Microsoft.YourPhone
 Microsoft.WindowsMaps
+Microsoft.MicrosoftSolitaireCollection
+Microsoft.Windows.DevHome
