@@ -1,4 +1,4 @@
-# Microsoft Edge Group Policy
+# Legacy Microsoft Edge
 
 `Computer Configuration\Administrative Templates\Windows Components\Microsoft Edge`
 
