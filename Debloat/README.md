@@ -18,8 +18,10 @@ As such, if you want to make sure all of the annoying apps are gone, it is bette
 
 - Run the Windows Terminal as an Administrator
 
-- To get a list of packages that can be removed, run `Get-AppxPackage -AllUsers | where {$.NonRemovable -eq $false} | where {$.isFramework -eq $false} | select Name,PackageFullName`.
+- To get a list of packages that can be removed, run `Get-AppxPackage -AllUsers | where {$_.NonRemovable -eq $false} | where {$_.isFramework -eq $false} | select Name,PackageFullName`.
 
 - Run `Get-AppxPackage -AllUsers <PackageName> | Remove-AppxPackage -AllUsers` to remove the unwanted packages.
 
 - Run `Get-AppxProvisionedPackage -Online <PackageName> | Remove-ProvisionedAppxPackage` to unprovision the packages.
+
+The list of packages I remove on my Parallels system is in the `Parallels.txt` file.
