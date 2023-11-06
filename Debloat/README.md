@@ -20,6 +20,6 @@ As such, if you want to make sure all of the annoying apps are gone, it is bette
 
 - To get a list of packages that can be removed, run `Get-AppxPackage -AllUsers | where {$.NonRemovable -eq $false} | where {$.isFramework -eq $false} | select Name,PackageFullName`.
 
-- Run `Get-AppxPackage <PackageName> -AllUsers | Remove-AppxPackage` to remove the unwanted packages.
+- Run `Get-AppxPackage -AllUsers <PackageName> | Remove-AppxPackage -AllUsers` to remove the unwanted packages.
 
 - Run `Get-AppxProvisionedPackage -Online <PackageName> | Remove-ProvisionedAppxPackage` to unprovision the packages.
