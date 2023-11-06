@@ -29,6 +29,8 @@ Tick "Block incoming connections" for Domain network, Private network, and Publi
 
 Smart App Control forces Smartscreen for apps & files to be on, which could lead to privacy issues. It can also break certain applications. Whether to keep this on or not depends on the threat model.
 
+On a side note, this breaks WSL.
+
 ## Reputation-based protection
 
 ### Check apps and files.
