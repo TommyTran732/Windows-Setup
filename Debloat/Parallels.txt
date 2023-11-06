@@ -1,8 +1,10 @@
 MicrosoftTeams
 Microsoft.ScreenSketch
+Microsoft.Paint
 Microsoft.MicrosoftOfficeHub
 Microsoft.WindowsFeedbackHub
 Microsoft.People
 Microsoft.WindowsAlarm
+Microsoft.WindowsSoundRecorder
 Microsoft.YourPhone
 Microsoft.WindowsMaps
