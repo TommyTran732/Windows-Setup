@@ -4,7 +4,7 @@ If you want to get an x64/x86 enterprise ISO, follow https://www.thewindowsclub.
 
 Essentially, the command to use with the Windows Media creation tool is `Retail /MediaArch x64 /MediaLangCode en-US /MediaEdition Enterprise`.
 
-Microsoft does not distribute Windows ARM ISOs as far as I know. The basic procedure is to download some ESD files off of Microsoft, then convert it into an ISO.
+Microsoft does not distribute Windows ARM ISOs as far as I know. The basic procedure is to download some ESD files from Microsoft, then convert it into an ISO.
 
 If you use Parallels, just let it create a Windows VM automatically. It will make an Windows ARM Home/Pro ISO in your Downloads Folder, and you can use that for a manual installation later.
 
