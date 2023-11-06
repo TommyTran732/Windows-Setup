@@ -4,6 +4,7 @@ Microsoft.Paint
 Microsoft.MicrosoftOfficeHub
 Microsoft.WindowsFeedbackHub
 Microsoft.People
+Clipchamp.Clipchamp
 Microsoft.WindowsAlarm
 Microsoft.WindowsSoundRecorder
 Microsoft.YourPhone
