@@ -22,6 +22,6 @@ As such, if you want to make sure all of the annoying apps are gone, it is bette
 
 - Run `Get-AppxPackage -AllUsers <PackageName> | Remove-AppxPackage -AllUsers` to remove the unwanted packages.
 
-- Run `Get-AppxProvisionedPackage -Online <PackageName> | Remove-ProvisionedAppxPackage` to unprovision the packages.
+- Run `Get-AppxProvisionedPackage -Online <PackageName> | Remove-ProvisionedAppxPackage -AllUsers` to unprovision the packages.
 
 The list of packages I remove on my Parallels system is in the `Parallels.txt` file.
