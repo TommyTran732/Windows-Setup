@@ -1,0 +1,8 @@
+MicrosoftTeams
+Microsoft.ScreenSketch
+Microsoft.MicrosoftOfficeHub
+Microsoft.WindowsFeedbackHub
+Microsoft.People
+Microsoft.WindowsAlarm
+Microsoft.YourPhone
+Microsoft.WindowsMaps
