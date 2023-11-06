@@ -10,6 +10,7 @@ Microsoft.GetStarted
 MicrosoftCorporationII.QuickAssist
 Microsoft.WindowsAlarms
 Microsoft.WindowsSoundRecorder
+Microsoft.XboxGamingOverlay
 Microsoft.YourPhone
 Microsoft.WindowsMaps
 Microsoft.MicrosoftSolitaireCollection
