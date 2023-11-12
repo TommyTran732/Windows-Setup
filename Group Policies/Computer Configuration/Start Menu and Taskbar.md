@@ -10,3 +10,4 @@ This is not strictly problematic, though I get quite irritated with most used ap
 - Remove frequent program list from Start Menu -> Enabled
 - Do not keep history of recently opened documents -> Enabled
 - Show or hide "Most used" list from Start menu -> Enabled -> Hide
+- Pin Apps to Start when installed -> Disabled
