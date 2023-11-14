@@ -9,4 +9,4 @@
 - Explorer -> Configure Windows Defender SmartScreen -> Enabled -> Warn and prevent bypass
 - Microsoft Edge -> Prevent bypassing Windws Defender SmartScreen prompts for sites -> Enabled
 
-There is also Explorer -> Configure App Install Control that you might want to look into.
+There is also Explorer -> Configure App Install Control that you might want to look into. Probably theatre though, it doesn't appear to block anything, or anything meaningful at least.
