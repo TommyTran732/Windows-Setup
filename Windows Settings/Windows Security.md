@@ -45,7 +45,11 @@ Consider scenarios where you use Proton Drive/Mega/PrivateBin which append the e
 
 ### Phising protection
 
-Not sure if this does online or offline checks, so privacy implications are unclear. It is theatre anyways - use a proper password manager and FIDO2. Best to keep it off.
+This is extremely invasive to the point where I do not think it's okay to keep it on under any circumstances, with any kind of threat model.
+
+https://support.microsoft.com/en-us/topic/protect-your-microsoft-password-from-being-phished-e4e8e611-e4b3-4be9-914c-db1657c337cf
+
+The protection is minimal - it only "protects" the Microsoft account used to sign into Windows. The whole exercise is theatre, use a proper password manager and FIDO2.
 
 ### Potentially unwanted app blocking
 
