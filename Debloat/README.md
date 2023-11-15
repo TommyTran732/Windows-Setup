@@ -21,3 +21,5 @@ As such, if you want to make sure all of the annoying APPX/MSIX apps are gone, i
 - "Uninstall" the remaining annoying apps from the Start Menu. They are not really apps on the system, they are just annoying shortcuts which will install the apps when you click on them. The list of packages I remove on my Parallels system is in the `Parallels.txt` file.
 
 - Open the terminal and run `winget list` to see the remaining packages (note that this will not exclude Framework packages). Remove the remaining undesirable apps with `winget remove <PackageName>`. In most cases, this will just be OneDrive.
+
+- For some reason, the Remote Desktop Connection app doesn't show up with both `Get-AppxPackage` and `winget`. Remove it with `mstsc /uninstall`. https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/uninstall-remote-desktop-connection?tabs=command-prompt#uninstall-remote-desktop-connection
