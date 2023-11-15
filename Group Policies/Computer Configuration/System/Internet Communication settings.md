@@ -2,7 +2,7 @@
 
 `Computer Configuration\Administrative Templates\System\Internet Communication Management\Internet Communication settings`
 
-These look quite old so I am not sure if they apply to modern Windows versions or not. It doesn't hurt to set them either ways
+**Old and very likely to be obsolete.**
 
 - Turn off Windows Customer Experience mprovement Program -> Enabled
 - Turn off downloading of print drivers over HTTP -> Enabled
