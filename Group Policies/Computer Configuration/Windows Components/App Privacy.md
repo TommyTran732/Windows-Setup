@@ -13,11 +13,15 @@ These contains some settings that are not in the Settings app. Most of these stu
 - Let Windows apps access and eye tracker device -> Enabled -> Force Deny
 - Let Windows apps take screenshots of various windows or displays -> Enabled -> Force Deny
 - Let Windows apps turn off the screenshot border -> Enabled -> Force Deny
+- Let Windows apps access presence sensing -> Enabled -> Force Deny
 - Let Windows apps access location -> Enabled -> Force Deny
 - Let Windows apps access messaging -> Enabled -> Force Deny
 - Let Windows apps access motion -> Enabled -> Force Deny
 - Let Windows apps access notifications -> Enabled -> Force Deny
 - Let Windows apps make phone calls -> Enabled -> Force Deny
+- Let Windows apps control radios -> Enabled -> Force Deny
+- Let Windows apps access Tasks -> Enabled -> Force Deny
+- Let Windows apps access trusted devices -> Enabled -> Force Deny
 - Let Windows apps activate with voice -> Enabled -> Force Deny
 - Let Windows apps activate with voice while the system is locked -> Enabled -> Force Deny
 - Let Windows apps access diagnostic information about other apps -> Enabled -> Force Deny
