@@ -13,3 +13,4 @@ Very confusing, you need to consult https://learn.microsoft.com/en-us/windows/pr
 - Do not allow web search -> Enabled
 - Don't search the web or display web results in Search -> Enabled
 - Enable indexing of online delegate mailboxes -> Disabled
+- Prevent indexing Microsoft Office Outlook -> Enabled
