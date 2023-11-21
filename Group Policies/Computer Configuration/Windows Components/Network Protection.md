@@ -8,4 +8,5 @@ Documentation:
 
 `Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus\Microsoft Defender Exploit Guard\Network Protection`
 
+This settings controls whether Network protection is allowed to be configured into block or audit mode on Windows -> Enabled (Only relevant if running Windows Server)
 Prevent users and apps from accessing dangerous websites -> Enabled -> Block
