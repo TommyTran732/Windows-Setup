@@ -43,7 +43,7 @@ This setting is independant from Smart App Control. Extremely privacy invasive. 
 
 Consider scenarios where you use Proton Drive/Mega/PrivateBin which append the encryption key in the URL. Now you are sending both the URL and the key to Microsoft. Something that's supposed to be private / end-to-end encrypted now gets leaked just like that. Or if you use PHPMyAdmin with the username & password appended for logins - now you are leaking access to your database.
 
-### Phising protection
+### Phishing protection
 
 This is extremely invasive to the point where I do not think it's okay to keep it on under any circumstances, with any kind of threat model.
 
