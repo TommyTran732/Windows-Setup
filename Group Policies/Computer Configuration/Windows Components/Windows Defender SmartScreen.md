@@ -2,7 +2,7 @@
 
 `Computer Configuration\Administrative Templates\Windows Components\Windows Defender SmartScreen`
 
-- Enhanced Phising Protection -> Service Enabled -> Disabled
+- Enhanced Phishing Protection -> Service Enabled -> Disabled
 
 **For a corporate scenario or when you cannot trust the user you are configuring it for and you choose to have SmartScreen enabled, do the followings:**,
 
