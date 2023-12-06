@@ -3,7 +3,7 @@
 Make sure the followings are selected:
 
 - Uncheck update as soon as possible (this is essentially the same as auto update with gradual release - we will configure the group pol to be auto update without gradual release)
-- Advanced option -> Recieve updates for other Microsoft products
+- Advanced option -> Receive updates for other Microsoft products
 - Notify when restart is required to finish updating
 - Install optional updates
 
