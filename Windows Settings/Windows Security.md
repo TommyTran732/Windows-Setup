@@ -15,7 +15,7 @@ One caveat with this is that if it takes the cloud too long to scan, the compute
 
 Should be turned off. Supposedly will prompt if the files it want to submit are document files, but why not just make it prompt for every file it wants to submit?
 
-## Ransomeware protection
+## Ransomware protection
 
 Turn on Controlled folder access. This will protect certain dirs and prevent direct writes to the disk.
 
