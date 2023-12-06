@@ -4,7 +4,7 @@
 
 **Old and very likely to be obsolete.**
 
-- Turn off Windows Customer Experience mprovement Program -> Enabled
+- Turn off Windows Customer Experience Improvement Program -> Enabled
 - Turn off downloading of print drivers over HTTP -> Enabled
 Turn off printing over HTTP -> Enabled
 - Turn off Help and Support Center "Did you know?" content -> Enabled (These are probably not that useful and will just be annoying)
