@@ -1,4 +1,4 @@
-# Windows Calendar
+# Windows Messenger
 
 `Computer Configuration\Administrative Templates\Windows Components\Windows Messenger`
 
