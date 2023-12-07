@@ -8,7 +8,7 @@ As such, if you want to make sure all of the annoying APPX/MSIX apps are gone, i
 
 - First, go to Settings -> Apps -> Optional features and remove unnecessary features. I personally remove everything here.
 
-- Next, scroll to the bottom and click "More Windows Features". Turn Windows feautures on or off and remove Features that you don't need. On my Parallels VM, I removed everything except Microsoft Print to PDF. If you are running bare metal, you should keep HyperV, Microsoft Defender Application Guard, and Windows Sandbox on.
+- Next, scroll to the bottom and click "More Windows Features". Turn Windows features on or off and remove Features that you don't need. On my Parallels VM, I removed everything except Microsoft Print to PDF. If you are running bare metal, you should keep HyperV, Microsoft Defender Application Guard, and Windows Sandbox on.
 
 - Reboot the system
 
