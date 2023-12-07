@@ -15,7 +15,7 @@ One caveat with this is that if it takes the cloud too long to scan, the compute
 
 Should be turned off. Supposedly will prompt if the files it want to submit are document files, but why not just make it prompt for every file it wants to submit?
 
-## Ransomeware protection
+## Ransomware protection
 
 Turn on Controlled folder access. This will protect certain dirs and prevent direct writes to the disk.
 
@@ -39,11 +39,11 @@ This sends hashes and file paths to Microsoft. It will also sends the URL of whe
 
 ### SmartScreen for Microsoft Edge
 
-This setting is independant from Smart App Control. Extremely privacy invasive. Sends **FULL URLs** to Microsoft. Whether to keep this on or not depends on the threat model, though it probably should be off in most cases.
+This setting is independent from Smart App Control. Extremely privacy invasive. Sends **FULL URLs** to Microsoft. Whether to keep this on or not depends on the threat model, though it probably should be off in most cases.
 
 Consider scenarios where you use Proton Drive/Mega/PrivateBin which append the encryption key in the URL. Now you are sending both the URL and the key to Microsoft. Something that's supposed to be private / end-to-end encrypted now gets leaked just like that. Or if you use PHPMyAdmin with the username & password appended for logins - now you are leaking access to your database.
 
-### Phising protection
+### Phishing protection
 
 This is extremely invasive to the point where I do not think it's okay to keep it on under any circumstances, with any kind of threat model.
 

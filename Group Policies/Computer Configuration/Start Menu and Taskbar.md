@@ -2,7 +2,7 @@
 
 `Computer Configuration\Administrative Templates\Start Menu and Taskbar`
 
-This is not strictly problematic, though I get quite irritated with most used apps/recently added apps/recently opened documents/etc showing up on my start menu. Someone may iadvertedly see something when I show them my screen.
+This is not strictly problematic, though I get quite irritated with most used apps/recently added apps/recently opened documents/etc showing up on my start menu. Someone may inadvertently see something when I show them my screen.
 
 - Remove "Recently added" list from Start Menu -> Enabled
 - Remove Personalized Website Recommendation section in the Start Menu -> Enabled
