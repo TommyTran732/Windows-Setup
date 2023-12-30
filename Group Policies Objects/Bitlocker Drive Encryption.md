@@ -2,9 +2,9 @@
 
 `Computer Configuration\Administrative Templates\Windows Components\Bitlocker Drive Encryption`
 
-Choose drive encryption method and cipher strength (Windows 10 [Version 1511] and later) -> Enable -> XTS-AES 256-bit for operating system, fixed data, and removable drives.
+Choose drive encryption method and cipher strength-> Enable -> XTS-AES 256-bit for operating system, fixed data, and removable drives.
 
-**The disable new DMA devices when computer is locked should only be enabled if your computer does not support kernel DMA protection.**
+**The disable new DMA devices when computer is locked should only be enabled if the specific computer does not support kernel DMA protection.**
 
 ## Operating System Drives
 
