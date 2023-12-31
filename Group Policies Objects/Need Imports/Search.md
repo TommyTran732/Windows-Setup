@@ -9,7 +9,7 @@ Very confusing, you need to consult https://learn.microsoft.com/en-us/windows/pr
 - Allow Cloud Search -> Disabled
 - Allow Cortana -> Disabled
 - Allow search and Cortana to use location -> Disabled
-- Configures search on the taskbar -> Enabled -> Search icon and label (Not a privacy/security issue or anything, but I hate the gigantic box)
+- Configures search on the taskbar -> Enabled -> Search icon and label (Not a privacy/security issue or anything, but I hate the gigantic box - **Does not show on Windows Server 2022 by default)
 - Do not allow web search -> Enabled
 - Don't search the web or display web results in Search -> Enabled
 - Enable indexing of online delegate mailboxes -> Disabled
