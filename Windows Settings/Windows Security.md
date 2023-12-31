@@ -4,7 +4,7 @@
 
 ### Cloud-delivered protection
 
-This sends hashes and file paths to Microsoft. Whether to keep this on or not depends on the threat model.
+This sends hashes and file paths to Microsoft. Whether to keep this on or not depends on the threat model. I recommend keeping it on on a domain controller and gaming machines.
 
 One caveat with this is that if it takes the cloud too long to scan, the computer will just run the executable. Might wanna increase the timeout later to make it less theatric:
 
@@ -64,6 +64,11 @@ Probably same as SmartScreen for Microsoft Edge. Might not be as egregious thoug
 Turn Force randomization for images (Mandatory ALSR) to "On by default".
 
 # Device Security
+
+## Core Isolation
+
+- Memory integrity -> Turn on
+- Firmware protection -> Turn on
 
 ## Security Processor & Secure Boot
 
