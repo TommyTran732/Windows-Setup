@@ -2,7 +2,7 @@
 
 `Computer Configuration\Administrative Templates\Windows Components\Windows Defender SmartScreen`
 
-- Enhanced Phishing Protection -> Service Enabled -> Disabled
+- Enhanced Phishing Protection -> Service Enabled -> Disabled (**Does not show on Windows Server 2022 by default**)
 
 **For a corporate scenario or when you cannot trust the user you are configuring it for and you choose to have SmartScreen enabled, do the followings:**,
 
