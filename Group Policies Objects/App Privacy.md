@@ -25,3 +25,4 @@ These contains some settings that are not in the Settings app (and vice versa). 
 - Let Windows apps activate with voice -> Enabled -> Force Deny
 - Let Windows apps activate with voice while the system is locked -> Enabled -> Force Deny
 - Let Windows apps access diagnostic information about other apps -> Enabled -> Force Deny
+- Let Winodws apps communicate with unpaired devices -> Enabled -> Force Deny
