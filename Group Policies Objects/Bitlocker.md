@@ -1,5 +1,7 @@
 # Bitlocker Drive Encryption
 
+**On Domain Controllers, Bitlocker and tools need to be installed as a feature in Server Manager first.**
+
 `Computer Configuration\Administrative Templates\Windows Components\Bitlocker Drive Encryption`
 
 Choose drive encryption method and cipher strength-> Enable -> XTS-AES 256-bit for operating system, fixed data, and removable drives. For Windows Vista, Windows Server 2008, etc... use AES 256-bit.
