@@ -2,9 +2,9 @@
 
 `Computer Configuration\Administrative Templates\Windows Components\Bitlocker Drive Encryption`
 
-Choose drive encryption method and cipher strength-> Enable -> XTS-AES 256-bit for operating system, fixed data, and removable drives.
+Choose drive encryption method and cipher strength-> Enable -> XTS-AES 256-bit for operating system, fixed data, and removable drives. For Windows Vista, Windows Server 2008, etc... use AES 256-bit.
 
-**The disable new DMA devices when computer is locked should only be enabled if the specific computer does not support kernel DMA protection.**
+**The disable new DMA devices when computer is locked should only be enabled if the specific computer does not support kernel DMA protection. Do not set this at the domain level.**
 
 ## Operating System Drives
 
