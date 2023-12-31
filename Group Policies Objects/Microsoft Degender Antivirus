@@ -1,4 +1,9 @@
-# Network Protection
+# Microsoft Defender Antivirus
+
+`Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus`
+
+
+## Network Protection
 
 Only relevant if SmartScreen is used.
 
@@ -10,3 +15,9 @@ Documentation:
 
 This settings controls whether Network protection is allowed to be configured into block or audit mode on Windows -> Enabled (Only relevant if running Windows Server)
 Prevent users and apps from accessing dangerous websites -> Enabled -> Block
+
+## Controlled Folder Access
+
+`Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus\Microsoft Defender Exploit Guard\Controlled Folder Access`
+
+- Configure Controlled folder access -> Enabled -> Block
