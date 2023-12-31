@@ -5,7 +5,7 @@ I mostly disable all cloud content because they are way too annoying. There are 
 `Computer Configuration\Administrative Templates\Windows Components\Cloud Content`
 
 - Turn off cloud optimized content -> Enabled
-- Turn off cloud consumer account state content -> Enabled (**Does not show on Windows Server 2022 by default**)
+- Turn off cloud consumer account state content -> Enabled
 - Do not show Windows tips -> Enabled
 - Turn of Microsoft consumer experiences -> Enabled
 
