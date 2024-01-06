@@ -1,6 +1,6 @@
 # Start Menu and Taskbar
 
-`Computer Configuration\Administrative Templates\Start Menu and Taskbar`
+`Computer Configuration\Policies\Administrative Templates\Start Menu and Taskbar`
 
 This is not strictly problematic, though I get quite irritated with most used apps/recently added apps/recently opened documents/etc showing up on my start menu. Someone may inadvertently see something when I show them my screen.
 

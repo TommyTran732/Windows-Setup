@@ -1,6 +1,6 @@
 # App Privacy
 
-`Computer Configuration\Administrative Templates\Windows Components\App Privacy`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\App Privacy`
 
 These contains some settings that are not in the Settings app (and vice versa). Most of these stuff I will never use, therefore I am forcing them to be off. You do not need to follow me on this, but you should at least check out all of the policies there.
 

@@ -2,4 +2,4 @@
 
 `Computer Configuration\Administrative Templates\System\Mitigation Options`
 
-- Untrusted Font Blocking -> Disabled
+- Untrusted Font Blocking -> Enabled -> Do not block untrusted fonts

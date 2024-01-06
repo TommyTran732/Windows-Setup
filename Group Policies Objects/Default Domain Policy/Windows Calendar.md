@@ -1,6 +1,6 @@
 # Windows Calendar
 
-`Computer Configuration\Administrative Templates\Windows Components\Windows Calendar`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\Windows Calendar`
 
 **Obsolete**
 

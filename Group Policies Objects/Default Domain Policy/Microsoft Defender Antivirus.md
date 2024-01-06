@@ -2,7 +2,7 @@
 
 **MAPS and features dependent on it are not enabled using this policy. It just configures how aggressive MAPS should be. This is quite invasive so I will only enable it for certain OUs.**
 
-`Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\Microsoft Defender Antivirus`
 
 ## MAPS
 

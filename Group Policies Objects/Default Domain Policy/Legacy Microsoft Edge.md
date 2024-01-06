@@ -1,6 +1,6 @@
 # Legacy Microsoft Edge
 
-`Computer Configuration\Administrative Templates\Windows Components\Microsoft Edge`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\Microsoft Edge`
 
 **Legacy Microsoft Edge, not the Chromium based one. Obsolete.**
 

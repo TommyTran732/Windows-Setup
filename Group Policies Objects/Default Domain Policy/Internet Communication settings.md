@@ -1,6 +1,6 @@
 # Internet Communication settings
 
-`Computer Configuration\Administrative Templates\System\Internet Communication Management\Internet Communication settings`
+`Computer Configuration\Policies\Administrative Templates\System\Internet Communication Management\Internet Communication settings`
 
 **Old and very likely to be obsolete.**
 

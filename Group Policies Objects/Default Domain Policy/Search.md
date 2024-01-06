@@ -1,6 +1,6 @@
 # Search
 
-`Computer Configuration\Administrative Templates\Windows Components\Search`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\Search`
 
 Very confusing, you need to consult https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#21-cortana-and-search-group-policies
 

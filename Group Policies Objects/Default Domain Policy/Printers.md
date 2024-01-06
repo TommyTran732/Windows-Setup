@@ -1,6 +1,6 @@
 # Printers
 
-`Computer Configuration\Administrative Templates\Printers`
+`Computer Configuration\Policies\Administrative Templates\Printers`
 
 - Isolate print drivers from applications -> Enabled
 - Configure Redirection Guard -> Enabled

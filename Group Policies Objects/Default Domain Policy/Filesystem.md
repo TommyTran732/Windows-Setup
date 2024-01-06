@@ -1,5 +1,5 @@
 # Filesystem
 
-`Computer Configuration\Administrative Templates\System\Filesystem`
+`Computer Configuration\Policies\Administrative Templates\System\Filesystem`
 
 - Enable Dev drive -> Disabled

@@ -1,6 +1,6 @@
 # Windows Messenger
 
-`Computer Configuration\Administrative Templates\Windows Components\Windows Messenger`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\Windows Messenger`
 
 **Old and very likely to be obsolete.**
 

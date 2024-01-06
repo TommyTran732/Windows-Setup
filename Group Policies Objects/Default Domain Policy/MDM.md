@@ -1,6 +1,6 @@
 # MDM
 
-`Computer Configuration\Administrative Templates\Windows Components\MDM`
+`Computer Configuration\Policies\Administrative Templates\Windows Components\MDM`
 
 Unless you run your own MDM system or something, this probably should not be on with a personal computer.
 

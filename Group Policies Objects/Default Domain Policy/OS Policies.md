@@ -1,6 +1,6 @@
 # OS Policies
 
-`Computer Configuration\Administrative Templates\System\OS Policies`
+`Computer Configuration\Policies\Administrative Templates\System\OS Policies`
 
 - ALlow Clipboard History -> Disabled
 - Allow Clipboard synchronization across devices -> Disabled
