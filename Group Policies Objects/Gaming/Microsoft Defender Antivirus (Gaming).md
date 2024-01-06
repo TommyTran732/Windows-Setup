@@ -11,4 +11,4 @@
 
 `Computer Configuration\Policies\Administrative Templates\Windows Components\Microsoft Defender Antivirus`
 
-- Join Microsoft MAPS -> Enabled
+- Join Microsoft MAPS -> Enabled -> Advanced Membership
