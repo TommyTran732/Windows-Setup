@@ -17,4 +17,4 @@ SmartScreen and Typosquatting as recommeded settings doesn't seem to apply consi
 - Content Settings -> Control the use of File System API for reading -> Don't allow any site to request and read access to files and directories via the File System API ("DefaultFileSystemReadGuardSetting": 2)
 - Content Settings -> Control the use of File System API for writing -> Don't allow any site to request and write access to files and directories via the File System API ("DefaultFileSystemWriteGuardSetting": 2)
 - Content Settings -> Control use of the Web Bluetooth API -> Don't allow any site to request access to Bluetooth devices via the Web Bluetooth API ("DefaultWebBluetoothGuardSetting": 2)
-- Content Settings -> Allow notifications to set Microsoft Edge as default PDF reader -> Disabled
+- Content Settings -> Allow notifications to set Microsoft Edge as default PDF reader -> Disabled ("ShowPDFDefaultRecommendationsEnabled": false)
