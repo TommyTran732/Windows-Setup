@@ -18,7 +18,7 @@ As such, if you want to make sure all of the annoying APPX/MSIX apps are gone, i
 
 - Run `Get-AppxPackage -AllUsers <PackageName> | Remove-AppxPackage -AllUsers` to remove the unwanted packages.
 
-- "Uninstall" the remaining annoying apps from the Start Menu. They are not really apps on the system, they are just annoying shortcuts which will install the apps when you click on them. The list of packages I remove on my Parallels system is in the `Parallels.txt` file.
+- "Uninstall" the remaining annoying apps from the Start Menu. They are not really apps on the system, they are just annoying shortcuts which will install the apps when you click on them.
 
 - Open the terminal and run `winget list` to see the remaining packages (note that this will not exclude Framework packages). Remove the remaining undesirable apps with `winget remove <PackageName>`. In most cases, this will just be OneDrive.
 
