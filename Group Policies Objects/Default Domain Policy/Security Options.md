@@ -6,7 +6,9 @@ Documentation: https://learn.microsoft.com/en-us/windows/security/application-se
 
 - Domain controller: LDAP server signing requirements: Require signing (**Follow this guide to setup LDAPS if you do not have key server: https://www.dvolve.net/blog/2019/12/using-lets-encrypt-for-active-directory-domain-controller-certificates/**)
 - Domain controller: LDAP server channel binding token requirements: Always
-- Microsoft network client: Digitally sign communications: Always
+- Domain member: Digitally encrypt or sign secure channel data (always) -> Enabled
+- Microsoft network client: Digitally sign communications (always) -> Enabled
+- Microsoft network server: Digitally sign communications (always) -> Enabled
 - Network security: LDAP client signing requirements: Require signing
 - Shutdown: Clear virtual memory pagefile -> Enabled
 - User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop -> Disabled
