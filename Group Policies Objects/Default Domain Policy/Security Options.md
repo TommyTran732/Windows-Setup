@@ -16,6 +16,8 @@ Documentation: https://learn.microsoft.com/en-us/windows/security/application-se
 - Microsoft network client: Digitally sign communications (always) -> Enabled
 - Microsoft network server: Digitally sign communications (always) -> Enabled
 - Network access: Allow anonymous SID/Name translation -> Disabled
+- Network security: Do not store LAN Manager hash value on next password change -> Enabled
+- Network security: Force logoff when logon hours expire -> Disabled
 - Network security: LDAP client signing requirements: Require signing
 - Network security: Restrict NTLM: Incoming NTLM traffic -> Deny all accounts
 - Network security: Restrict NTLM: NTLM authentication in this domain -> Deny all
