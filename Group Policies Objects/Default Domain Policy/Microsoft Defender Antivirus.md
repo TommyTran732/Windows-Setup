@@ -15,6 +15,14 @@
 
 - Configure Controlled folder access -> Enabled -> Block
 
+## Attack Surface Reduction
+
+`Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus\Microsoft Defender Exploit Guard\Attack surface reduction`
+
+- Configure Attack Surface Reduction rules -> Add all rules from the [GUID Matrix](https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#asr-rule-to-guid-matrix) except `01443614-cd74-433a-b99e-2ecdc07bfc25`. Set their value to 1.
+
+Rationale: `01443614-cd74-433a-b99e-2ecdc07bfc25` depends on Microsoft Cloud Protection (MAPS). The only place where I use MAPS is my gaming machine, and it needs to be able to run not-so-reputable programs anyways.
+
 ## MpEngine
 
 `Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus\MpEngine`
