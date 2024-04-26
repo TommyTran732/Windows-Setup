@@ -6,11 +6,16 @@ Documentation: https://learn.microsoft.com/en-us/windows/security/application-se
 
 (**Follow this guide to setup LDAPS if you do not have key server: https://www.dvolve.net/blog/2019/12/using-lets-encrypt-for-active-directory-domain-controller-certificates/**)
 
+- Accounts: Block Microsoft accounts -> Users can't add or log on with Microsoft accounts
+- Accounts: Guest account status -> Disabled
+- Devices: Prevent users from installing printer drivers -> Enabled
 - Domain controller: LDAP server signing requirements: Require signing
 - Domain controller: LDAP server channel binding token requirements: Always
 - Domain member: Digitally encrypt or sign secure channel data (always) -> Enabled
+- Domain member: Require strong (Windows 2000 or later) session key -> Enabled
 - Microsoft network client: Digitally sign communications (always) -> Enabled
 - Microsoft network server: Digitally sign communications (always) -> Enabled
+- Network access: Allow anonymous SID/Name translation -> Disabled
 - Network security: LDAP client signing requirements: Require signing
 - Shutdown: Clear virtual memory pagefile -> Enabled
 - User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop -> Disabled
