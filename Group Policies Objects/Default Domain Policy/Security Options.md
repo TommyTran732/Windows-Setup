@@ -17,6 +17,9 @@ Documentation: https://learn.microsoft.com/en-us/windows/security/application-se
 - Microsoft network server: Digitally sign communications (always) -> Enabled
 - Network access: Allow anonymous SID/Name translation -> Disabled
 - Network security: LDAP client signing requirements: Require signing
+- Network security: Restrict NTLM: Incoming NTLM traffic -> Deny all accounts
+- Network security: Restrict NTLM: NTLM authentication in this domain -> Deny all
+- Network security: Restrict NTLM: Outgoing NTLM traffic to remote servers -> Deny all
 - Shutdown: Clear virtual memory pagefile -> Enabled
 - User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop -> Disabled
 - User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode -> Prompt for credentials on the secure desktop
