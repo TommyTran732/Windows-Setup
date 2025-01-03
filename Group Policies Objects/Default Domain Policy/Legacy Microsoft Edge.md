@@ -13,4 +13,4 @@
 - Configure Windows Defender SmartScreen -> Disabled
 - Allow extended telemetry for the Books tab -> Disabled
 - Prevent using Localhost IP address for WebRTC -> Enabled
-- Prevent Microsoft Edge from gather Live Tile information when pinning a site to Start
+- Prevent Microsoft Edge from gather Live Tile information when pinning a site to Start -> Enabled

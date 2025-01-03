@@ -28,6 +28,6 @@ Documentation: https://learn.microsoft.com/en-us/windows/security/application-se
 - User Account Control: Behavior of the elevation prompt for standard users -> Prompt for credentials on the secure desktop
 - User Account Control: Only elevate executables that are signed and validated -> Enabled
 - User Account Control: Only elevate UIAccess applications that are installed in secure locations -> Enabled
-- User Account Control: Run all administrators in Admin Approval Mode
+- User Account Control: Run all administrators in Admin Approval Mode -> Enabled
 - User Account Control: Switch to the secure desktop when prompting for elevation -> Enabled
 - User Account Control: Virtualize file and registry write failures to per-user locations -> Enabled
