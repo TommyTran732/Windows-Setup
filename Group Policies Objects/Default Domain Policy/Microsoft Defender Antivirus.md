@@ -23,6 +23,8 @@
 
 Rationale: `01443614-cd74-433a-b99e-2ecdc07bfc25` depends on Microsoft Cloud Protection (MAPS). The only place where I use MAPS is my gaming machine, and it needs to be able to run not-so-reputable programs anyways.
 
+**Warning:** NVIDIA Driver can fail installing most probably because of `56a863a9-875e-4185-98a7-b882c64b5ce5`, you can temporarily disable ASR rules to update NVIDIA driver.
+
 ## MpEngine
 
 `Computer Configuration\Administrative Templates\Windows Components\Microsoft Defender Antivirus\MpEngine`
